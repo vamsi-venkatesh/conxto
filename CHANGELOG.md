@@ -2,6 +2,22 @@
 
 What shipped to conxto.com, by date.
 
+## 2026-09-15
+- Landing shows complete product screens from a fictional test account instead of cropped shots.
+- Autopilot is described as a target you set and a run that follows it, with a report after every run.
+- AI routing picks a primary provider first and rotates automatically when a provider is unavailable or low on credit.
+
+## 2026-09-14
+- Copilot replaces Find, Conxto jobs and the separate paste flow: one guided journey from choosing a job to tracking it, with the steps shown at the top.
+- Home, Applications, Tracking and Profile redesigned around the work that needs you.
+- Preferences are global: the countries you want to work in, and your work authorization for each.
+- Application credits are visible in the app, with clear limits.
+- Screening answers can be reviewed before you apply; English and German confirmations corrected.
+- A résumé line that denies a skill is no longer counted as evidence for it, in fit checks and interview preparation.
+- Cover letters no longer repeat openings for abbreviated employer names.
+- Job collection widened to more role families; browse cards show posting details before scoring.
+- Connection failures now offer a recovery action.
+
 ## 2026-09-11
 - Landing rebuilt: Find and Autopilot as the two products, Bring a job and Conxto jobs as the free extras, real screens, pinned scroll-reveal chapters, no "every night" claim anywhere.
 - Connect Google: applications you approve are sent from your own Gmail after a preview. Send scope only.
