@@ -19,12 +19,12 @@ What shipped to conxto.com, by date.
 - Connection failures now offer a recovery action.
 
 ## 2026-09-11
-- Landing rebuilt: Find and Autopilot as the two products, Bring a job and Conxto jobs as the free extras, real screens, pinned scroll-reveal chapters, no "every night" claim anywhere.
+- Landing rebuilt: Find and Autopilot as the two products, Bring a job and Conxto jobs as the free extras, real screens, pinned scroll-reveal chapters.
 - Connect Google: applications you approve are sent from your own Gmail after a preview. Send scope only.
 - Notifications: email now, Telegram bot, browser push behind keys. Quiet hours and per-channel preferences on Profile.
 - Cover letters are written again. They had been silently skipped since 2026-08-05.
 - Recommendations: fit is capped by proven requirements; "partly proven" no longer credits unrelated skills; posting language is recorded at collection.
-- Autopilot: language gate made conditional and answerable, duplicate stops removed, a real nightly window per mandate, a morning digest.
+- Autopilot: language gate made conditional and answerable, duplicate stops removed, a scheduled run window per mandate, a report after each run.
 - Ask Conxto answers from the model with your workspace as grounding, and says plainly when no model is available.
 - Conxto jobs is a board over every posting, with filters and a For you toggle. Save is a bookmark; Prepare creates the application.
 - Tracking replaces Applications. Every role you applied to and what happened since, including roles you applied to outside Conxto.
