@@ -1,24 +1,24 @@
 # Conxto
 
-Conxto is in private beta.
+Conxto is live at [conxto.com](https://conxto.com), built and run in Magdeburg, Germany.
 
 It reads live job postings against your résumé, tells you which roles fit and what is missing for the rest, and prepares the application: a tailored résumé, a cover letter, screening answers from facts you confirmed, and a draft email where the employer takes applications by email. You review the package and apply.
 
-[conxto.com](https://conxto.com). Access is by request.
+Two plans: **Copilot** $9 a month (10 prepared applications a day; you send them) and **Autopilot** $19 a month (30 a day; it applies inside your rules). Prices in USD, billed monthly, cancel any time.
 
 ## Products
 
 | Product | What happens | Status |
 |---|---|---|
 | **Copilot** | Choose your role, country and remote preference. Conxto finds live postings, checks each one against your résumé one requirement at a time, and prepares the package for the ones you pick. | Live |
-| **Bring a job** | Paste a posting you found, as a link or as text. It comes back as the same package. | Live, free |
-| **Browse jobs** | Every collected posting across roles and countries. Check your fit, then prepare. | Live, free |
+| **Bring a job** | Paste a posting you found, as a link or as text. It comes back as the same package. | Live |
+| **Browse jobs** | Every collected posting across roles and countries. Check your fit, then prepare. | Live |
 | **Applications** | One place per application: choose job, check fit, prepare, review, apply, track. Downloads, screening answers and what happened after you applied. | Live |
 | **Profile & preferences** | What Conxto read from your résumé and what you confirmed, editable in place. Countries you want to work in, and your work authorization for each. | Live |
 | **Ask Conxto** | A career assistant with a team of specialist agents behind it, answering from your own workspace and memory. | Live |
-| **Autopilot** | You set a target: roles, places, minimum fit, how many per run. It searches inside those rules, prepares packages for the roles that clear your bar, skips weak fits, and reports every run. | Beta, by approval |
+| **Autopilot** | You set a target: roles, places, minimum fit, how many per run. It searches inside those rules, prepares packages for the roles that clear your bar, skips weak fits, and reports every run. | Live (Autopilot plan) |
 
-Free accounts can prepare ten applications a day. Remaining credits are shown in the app. Paid plans have not launched.
+Remaining preparations for the day are shown in the app.
 
 ## How it works
 
@@ -76,8 +76,8 @@ Applications carry their origin, their downloads, their sends and the status of 
 ## What it will never do
 
 - Invent a fact. Every changed line traces to your résumé or to an answer you gave.
-- Send without your approval.
-- Solve a CAPTCHA or log in to an employer site as you.
+- Send without your approval. Copilot never sends; Autopilot sends only inside rules you approved, version by version.
+- Log in to an employer site as you.
 - Guess an answer to an employer's question. It comes to you.
 - Read your inbox. The Gmail permission is send only.
 
@@ -91,9 +91,9 @@ Fictional test account.
 
 ![Autopilot with approved rules](autopilot.jpg)
 
-## Beta notes
+## Notes
 
-- Autopilot is wired and tested on test accounts. It has not yet completed a run for a beta user in production.
+- Autopilot has not yet completed a run for a paying user in production.
 - Gmail sending uses Google's testing mode. A connection expires after seven days and asks to reconnect.
 - Interview preparation lives inside each application.
 - WhatsApp alerts are not available.
@@ -104,7 +104,7 @@ Bugs and requests go to [Issues](../../issues). Security matters go to the addre
 
 ## Code
 
-The code is private during the beta.
+The code is private.
 
 ---
 
