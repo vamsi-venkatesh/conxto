@@ -2,6 +2,16 @@
 
 What shipped to conxto.com, by date.
 
+## 2026-10-09
+- Two paid plans: Copilot $9 a month (it prepares, you send) and Autopilot $19 a month (it applies inside your rules).
+- New landing page: the problem, the shift, how it works, three use cases, pricing and questions.
+- Today is a short briefing with measured counts: postings checked, how many fit your preferences, how many were ruled out and why.
+- Job list: a fit bar whose colour follows the score, and one block per must-have showing what your résumé proves. Keyboard triage (J/K, P, S, B) with Undo.
+- Prepare runs in the background, and the preparation is shown as it happens: each step appears only when it is recorded.
+- Applications open on what changed: your line beside the tailored line, then one checklist before you send.
+- Changing your preferences re-scores every job. Postings outside your places or roles no longer appear among your best fits.
+- German cover letters no longer mix in English sentences.
+
 ## 2026-09-15
 - Landing shows complete product screens from a fictional test account instead of cropped shots.
 - Autopilot is described as a target you set and a run that follows it, with a report after every run.
